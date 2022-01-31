@@ -16,11 +16,13 @@ This Notebook deals with processing the output of the RNN in order to be compare
 
 ---------------------------------------------------------------------------------------------------------------
 If you would like to contact us, you can try the following channels
-- 📫 martin.wegmann@pm.me
-- Twitter: @martin_wegmann
 
 - 📫 fernando.jaume@unige.ch
 - Twitter: @fer_jaume
+
+- 📫 martin.wegmann@pm.me
+- Twitter: @martin_wegmann
+
 
 <!---
 martin-wegmann/martin-wegmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
