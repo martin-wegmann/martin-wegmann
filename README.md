@@ -14,7 +14,7 @@ This notebook contains the sampling of the data and the RNN architecture and its
 
 This Notebook deals with processing the output of the RNN in order to be compared to other netcdf datasets.
 
-
+---------------------------------------------------------------------------------------------------------------
 If you would like to contact us, you can try the following channels
 - 📫 martin.wegmann@pm.me
 - Twitter: @martin_wegmann
