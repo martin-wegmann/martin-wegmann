@@ -1,16 +1,18 @@
+# RNN for field reconstruction
+
 Currently, this is the repository for the code of the publication XXXXXX
 
 The code is split into three Jupyter Notebooks:
 
-## 1)  preprocess_netcdf_RNN_public.ipynb 
+1)  preprocess_netcdf_RNN_public.ipynb 
 
 This Notebook deals with processing the raw netcdf input data in order for them to be used for training.
 
-## 2)  RNN_20CRv3_public.ipynb
+2)  RNN_20CRv3_public.ipynb
  
 This notebook contains the sampling of the data and the RNN architecture and its execution.
 
-## 3)  postprocess_netcdf_RNN_public.ipynb
+3)  postprocess_netcdf_RNN_public.ipynb
 
 This Notebook deals with processing the output of the RNN in order to be compared to other netcdf datasets.
 
