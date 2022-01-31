@@ -22,7 +22,7 @@ If you would like to contact us, you can try the following channels
 - 📫 fernando.jaume@unige.ch
 - Twitter: @fer_jaume
 
-- 📫 martin.wegmann@pm.me
+- 📫 martinwegmann@pm.me
 - Twitter: @martin_wegmann
 
 
