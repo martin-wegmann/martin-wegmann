@@ -1,4 +1,7 @@
-- 📫 martin.wegmann@giub.unibe.ch
+Currently, this is the repository for the code of the publication XXXXXX
+
+If you would like to contact me, you can try the following channels
+- 📫 martin.wegmann@pm.me
 - Twitter: @martin_wegmann
 
 <!---
